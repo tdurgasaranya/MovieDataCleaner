@@ -1,3 +1,5 @@
+#' @title Elbow plot for KNN data
+#' @description To categorize optimal number of clusters for the dataset to be clustered
 #' get_knn_kmeans_elbow_plot
 #'
 #' `get_knn_kmeans_elbow_plot` returns the elbow plot of kmeans clusters for knn
