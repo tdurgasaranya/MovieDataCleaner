@@ -1,3 +1,5 @@
+#' @title  NMF technique for Kmeans dataset
+#' @description  This function set gives results for NMF clustered data on Kmeans
 #' get_nmf_clustered_data
 #'
 #' `get_nmf_clustered_data` returns the clustered dataset of kmeans clusters for NMF
