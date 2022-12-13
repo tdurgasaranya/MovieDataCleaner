@@ -1,3 +1,5 @@
+#' @title  Impute missing values
+#' @description  This function set imputes the missing values using KNN dataset
 #' run_knn_imputation
 #'
 #' `run_knn_imputation` imputes the missing values into a dataset using knn
