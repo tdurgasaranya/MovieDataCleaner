@@ -1,3 +1,6 @@
+#' @title KNN clustering data
+#' @description This function set performs the clustering on KNN dataset using k means
+
 #' get_knn_clustered_data
 #'
 #' `get_knn_clustered_data` returns the clustered dataset of kmeans clusters for knn
