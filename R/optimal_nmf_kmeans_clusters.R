@@ -1,3 +1,5 @@
+#' @title Optimal NMF on k means clusters  
+#' @description optimal kmeans clusters using average silhouette width
 #' optimal_nmf_kmeans_clusters
 #'
 #' `optimal_nmf_kmeans_clusters` finds the optimal number of kmeans clusters for NMF
